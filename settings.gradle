@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Kuka Tic Tac Toe V2'

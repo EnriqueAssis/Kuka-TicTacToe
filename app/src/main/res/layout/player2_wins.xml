@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="200dp"
+    android:id="@+id/player2wins_root">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/player2wins_image"
+        android:layout_width="wrap_content"
+        android:layout_height="700dp"
+        android:src="@drawable/iiwa" />
+
+    <TextView
+        android:id="@+id/player2wins_text"
+        android:layout_width="824dp"
+        android:layout_height="471dp"
+        android:layout_gravity="center"
+        android:text="Player 2 wins!"
+        android:textAlignment="center"
+        android:textSize="60dp" />
+
+</LinearLayout>

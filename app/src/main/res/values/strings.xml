@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kuka Tic Tac Toe V2</string>
+    <string name="one_player_player_x_robot">One Player (Player x Robot)</string>
+</resources>
